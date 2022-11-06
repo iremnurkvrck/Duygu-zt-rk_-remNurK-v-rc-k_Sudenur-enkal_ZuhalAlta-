@@ -1,0 +1,65 @@
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe.config
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\bin\Debug\Client.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formMain.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formLogin.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Client\obj\Debug\Client.pdb
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.exe.config
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.exe
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.pdb
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formMain.resources
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formLogin.resources
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.exe
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.pdb
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\TcpMultiFileTransfer.exe
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\TcpMultiFileTransfer.pdb
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\TcpMultiFileTransfer.exe.config
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Can Yavuz\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formMain.resources
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formLogin.resources
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.formPrivate.resources
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.exe
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\obj\Debug\Client.pdb
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.exe.config
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.exe
+C:\Users\fhrtt\Desktop\Multithreaded-Client-Server-Chat-Application-master\Client\bin\Debug\Client.pdb
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\bin\Debug\Client.exe.config
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\bin\Debug\Client.exe
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\bin\Debug\Client.pdb
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.formMain.resources
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.formLogin.resources
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.formPrivate.resources
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.Properties.Resources.resources
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.exe
+D:\işletim sistemleri\soket programlama\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\DuyguÖztürk_İremNurKıvırcık_SudenurŞenkal_ZuhalAltaş\Client\obj\Debug\Client.pdb

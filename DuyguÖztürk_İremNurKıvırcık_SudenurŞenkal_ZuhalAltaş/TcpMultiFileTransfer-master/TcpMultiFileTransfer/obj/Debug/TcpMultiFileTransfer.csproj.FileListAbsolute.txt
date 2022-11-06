@@ -1,0 +1,11 @@
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\bin\Debug\TcpMultiFileTransfer.exe.config
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\bin\Debug\TcpMultiFileTransfer.exe
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\bin\Debug\TcpMultiFileTransfer.pdb
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.csproj.AssemblyReference.cache
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.csproj.SuggestedBindingRedirects.cache
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.FrmMain.resources
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.Properties.Resources.resources
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.csproj.GenerateResource.cache
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.exe
+C:\Users\fhrtt\Desktop\TcpMultiFileTransfer-master\TcpMultiFileTransfer\obj\Debug\TcpMultiFileTransfer.pdb
